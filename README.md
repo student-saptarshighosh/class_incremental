@@ -1,4 +1,4 @@
-I only work on ImageNet dataset.<br>.
+I only work on ImageNet dataset.</br>.
 In github, in exps folder there’s two files:
 1)ease_ina.json
 2)ease_ina_in21k.json
