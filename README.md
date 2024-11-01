@@ -11,9 +11,10 @@ Vit_ease file.py for feature embedding x</br>
 in Linear.py cosine similarty into subspaces</br>
 </br>
 </br>
-into Utlis folder for model evaluation
+into Utlis folder for model evaluation</br>
 </br>
 </br>
+In model folder,Ease.py for implementaion  
 
 
 
